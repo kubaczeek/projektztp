@@ -1,3 +1,0 @@
-interface TableHeader {
-    TableData GetTableData();
-}
